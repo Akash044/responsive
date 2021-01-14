@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bolder;
+    font-size: 70px;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bolder;
+    font-size: 50px;
+    
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 11px;
+    font-weight: bolder;
+    font-size: 40px;
+}
+h4,h5{
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+
+}
+h6{
+    font-size:13px;
+    margin-top: 9px;
+    color: white;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-highlight,h3{
+    color: #76C27E;
+}
+.header-container{
+    background-color: #FFFFF4;
+    height: 700px;
+}
+
+.button-background-color{
+    background-color: #2A1E59;
+    border-radius: 10px;
+    margin-top: 10px;
+    font-weight:bold;
+}
+
+.normal-backpack-section{
+    margin-top: 100px;
+}
+.travel-backpack-section{
+    margin-top: 100px;
+}
+.normal-backpack-pic,.travel-backpack-pic{
+    background-color:#F1F1F1 ;
+    border: 20px solid white;
+    border-radius: 50px;
+    padding: 20px;
+}
+.normal-backpack-card,.travel-backpack-card{
+    border-radius: 25px;
+}
+.find-the-perfect-area{
+    margin-top: 90px;
+}
+.find-the-perfect-area-pic{
+    margin-top: 150px;
+}
+.grid-item{
+    height: 140px;
+    border-radius: 20px;
+}
+.grid-item img{
+    margin-left: 45px;
+}
+
+.QA-area{
+    height: 120px;
+    border-radius: 25px;
+}
+
+.bonus-area,.recently-viewed-product{
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
