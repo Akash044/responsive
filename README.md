@@ -1,1 +1,1 @@
-# Akash044-assignment02-responsive
+# responsive-website-assignment02
